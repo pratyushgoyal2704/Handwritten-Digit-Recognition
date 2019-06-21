@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition
-Implemented a Handwritten Digit Recognition on MNIST Dataset using K-NN Algorithm by using Python libraries like NumPy, Matplotlib
+Implemented a Handwritten Digit Recognition on MNIST Dataset using K-NN Algorithm by using Python libraries like NumPy, Matplotlib <br>
 Accuracy using KNN Algorithm is ______
 
 # Environment
